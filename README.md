@@ -1,4 +1,4 @@
-This is a Chat Bot app created to know about [OpenAI](https://openai.com/) and [Vercel AI SDK](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
+This is a Chat Bot app created to learn about [OpenAI](https://openai.com/) and [Vercel AI SDK](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
 
 ## Getting Started
 
